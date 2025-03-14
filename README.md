@@ -19,7 +19,7 @@
 <h2 align="center">⚒️ Habilidades y Tecnologías ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,git,docker,linux,postman,vscode"/><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,git,docker,linux,postman,vscode,php"/><br>
     <img src="https://skillicons.dev/icons?i=odoo,mysql,postgres,html,css"/><br>
 </div>
 
