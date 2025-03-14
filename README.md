@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Bienvenido a mi perfil 🚀  
 
-💻 **Ingeniero en Sistemas y Materiales** | 🔹 **Especialista en Odoo, E-commerce y Automatización de Negocios**  
+💻 **Ingeniero en Sistemas** | 🔹 **Especialista en Odoo, E-commerce y Automatización de Negocios**  
 📊 Amante del análisis de datos y la optimización de procesos con tecnología.  
 
 ---
