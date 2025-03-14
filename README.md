@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**jorgealqs/jorgealqs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Ingeniero en Sistemas** | 🔹 **Especialista en Odoo & E-commerce**  
+💡 Apasionado por la automatización de negocios y el desarrollo de software en Odoo ERP.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Habilidades y Tecnologías:
+- 🏢 **Odoo ERP** (Community & Enterprise)  
+- 🐍 **Python, JavaScript, OWL** (Odoo Web Library)  
+- 📦 **Docker, Virtualización, APIs**  
+- 📊 **Pandas, NumPy, Matplotlib (Análisis de Datos)**  
+- 🍽️ **POS & Gestión de Inventarios para restaurantes y bares**  
+
+---
+
+### 📌 Últimos Proyectos:
+🔹 **📦 Odoo para e-commerce y automatización de ventas**  
+🔹 **📊 Módulo de estadísticas deportivas en Odoo**  
+🔹 **📄 Generador de CVs en PDF con traducción automática**  
+
+---
+
+### 📫 ¡Conectemos!
+🔗 [LinkedIn](https://www.linkedin.com/in/jorgealqs/) | 📧 [Email](mailto:joralquisi@hotmail.com) | 🌐 [Mi Página Web](https://tuweb.com)  
+
+---
+  
+⭐ **¡Déjame una estrella en mis proyectos si te gustan!**  
