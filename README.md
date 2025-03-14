@@ -1,29 +1,31 @@
-## Hi there 👋
+# 👋 ¡Hola! Bienvenido a mi perfil 🚀  
 
-🚀 **Ingeniero en Sistemas** | 🔹 **Especialista en Odoo & E-commerce**  
-💡 Apasionado por la automatización de negocios y el desarrollo de software en Odoo ERP.  
-
----
-
-### 🛠️ Habilidades y Tecnologías:
-- 🏢 **Odoo ERP** (Community & Enterprise)  
-- 🐍 **Python, JavaScript, OWL** (Odoo Web Library)  
-- 📦 **Docker, Virtualización, APIs**  
-- 📊 **Pandas, NumPy, Matplotlib (Análisis de Datos)**  
-- 🍽️ **POS & Gestión de Inventarios para restaurantes y bares**  
+💻 **Ingeniero en Sistemas y Materiales** | 🔹 **Especialista en Odoo, E-commerce y Automatización de Negocios**  
+📊 Amante del análisis de datos y la optimización de procesos con tecnología.  
 
 ---
 
-### 📌 Últimos Proyectos:
-🔹 **📦 Odoo para e-commerce y automatización de ventas**  
-🔹 **📊 Módulo de estadísticas deportivas en Odoo**  
-🔹 **📄 Generador de CVs en PDF con traducción automática**  
+## 🛠️ Habilidades y Tecnologías:
+- **Odoo ERP** (Community & Enterprise) – Desarrollo de módulos personalizados  
+- **Python, JavaScript, OWL** (Odoo Web Library) – Frontend & Backend  
+- **Docker, APIs, Virtualización** – Implementación escalable  
+- **Análisis de Datos** con Pandas, NumPy, Matplotlib y SciPy  
+- **E-commerce & POS** – Gestión de inventario y ventas para restaurantes, bares y tiendas online  
+- **Automatización de Redes Sociales** – Integraciones con Facebook y otras plataformas  
 
 ---
 
-### 📫 ¡Conectemos!
+## 🚀 Proyectos Destacados:
+🔹 **🔗 Conexión de Odoo con redes sociales** (Automatización de contenido en Facebook)  
+🔹 **📦 Plataforma de E-commerce basada en Odoo** (Importación de productos desde China)  
+🔹 **📊 Módulo de estadísticas deportivas en Odoo** (Seguimiento de equipos y resultados)  
+🔹 **📄 Generador de CVs en PDF con traducción automática** (Multilenguaje y diseño mejorado)  
+
+---
+
+## 📫 Conectemos:
 🔗 [LinkedIn](https://www.linkedin.com/in/jorgealqs/) | 📧 [Email](mailto:joralquisi@hotmail.com) | 🌐 [Mi Página Web](https://tuweb.com)  
 
 ---
-  
-⭐ **¡Déjame una estrella en mis proyectos si te gustan!**  
+
+⭐ **¡Si te interesan mis proyectos, no olvides dejar una estrella!** 🚀  
