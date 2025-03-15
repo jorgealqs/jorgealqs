@@ -10,9 +10,9 @@
 
 <h2 align="center">⚒️ Skills & Technologies ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,git,docker,linux,postman,vscode,php"/>
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,php"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=odoo,mysql,postgres,html,css"/>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,git,docker,linux,postman,vscode"/>
 </div>
 
 <hr/>
