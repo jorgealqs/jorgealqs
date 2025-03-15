@@ -1,8 +1,10 @@
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FEFFFC&width=435&lines=Ingeniero+En+Systemas" />
+
 <p align="center" width="300">
-   <h3 align="center">¡Hey 👋! Soy <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FEFFFC&width=435&lines=Jorge+Alberto+Quiroz+Sierra" /> 👨🏻‍💻</h3>
+   <h3 align="center">¡Hey 👋! Soy Jorge Alberto Quiroz Sierra 👨🏻‍💻</h3>
 </p>
 
-<h3 align="center">🚀 Ingeniero en Sistemas | Especialista en Odoo & E-commerce</h3>
+<h3 align="center">🚀 Especialista en Odoo & E-commerce</h3>
 
 <br/>
 
