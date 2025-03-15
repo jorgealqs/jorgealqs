@@ -1,6 +1,7 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FEFFFC&width=435&lines=Jorge+Alberto+Quiroz+Sierra" />
-</h1>
+<p align="center" width="300">
+   <img align="center" width="200" src="https://user-images.githubusercontent.com/1561955/106762302-fda9de00-6635-11eb-99be-3ef744e60c0e.png" />
+   <h3 align="center">¡Hey 👋! Soy <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FEFFFC&width=435&lines=Jorge+Alberto+Quiroz+Sierra" /> 👨🏻‍💻</h3>
+</p>
 
 <h3 align="center">🚀 Ingeniero en Sistemas | Especialista en Odoo & E-commerce</h3>
 
